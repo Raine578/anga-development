@@ -1,0 +1,29 @@
+body{
+     background-colour: #eeeeee;
+     font-family: Arial, sans-seriff;
+     line-height: 1.5em;
+     color: #666;
+     text-align: centre;
+     text-shadow: 1px 1px #ffffff;
+     padding:40px;
+
+}
+
+h1{
+    font-size: 2.0em;
+    colour: #333333;
+    text-transform: uppercase;
+
+}
+
+p{
+    margin-bottom: 1.5em;
+
+}
+
+img{
+    border:10px solid #fffff;
+    box-shadow: 4px 4px 4px #dd;
+
+}
+
