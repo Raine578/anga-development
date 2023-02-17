@@ -1,0 +1,36 @@
+<html>
+
+     <head>
+
+          <title>
+
+                 Aseki Mini Hydro (Team Work)
+
+          </title>
+
+         <link rel="stylesheet"type="text/css" href="style.css"/>
+
+     </head>
+
+     <body>
+ 
+          <h1> 
+
+                 Aseki Mini Hydro ( Team Work)
+
+          </h1>
+
+           <p>
+
+                 Emmanuel! Our Lives are a Solution to our neigbours!
+
+           </p>
+
+           <img src="sample-asekiwaterfall-image.jpg"/>
+
+     </body>
+
+</html>
+
+
+
